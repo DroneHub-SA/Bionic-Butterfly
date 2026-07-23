@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦋 Bionic - Butterfly 
+# 🦋 Bionic Butterfly 
 
 **A butterfly-inspired robot that flies by flapping its wings**
 
