@@ -28,8 +28,9 @@
 
 ## 1. What is Bionic Robotics?
 
-> [!NOTE]
-> *Documentation pending...*
+Bionic robotics is all about creating machines that copy how living things move and work in nature.
+
+Instead of using traditional drone propellers, the **Bionic Butterfly** flies by flapping its lightweight wings just like a real butterfly. It combines nature-inspired physics with smart electronics to achieve smooth, realistic flight.
 
 ---
 
@@ -44,7 +45,11 @@
 ## 3. The Weight Factor
 
 > [!IMPORTANT]
-> *Documentation pending...*
+Weight is the most critical constraint in bionic flight. Unlike multi-rotor drones that rely on high-thrust propellers, a flapping-wing robot requires an ultra-lightweight power-to-weight ratio to achieve lift.
+
+- **Minimalist Frame:** Built using carbon fiber rods and thin plastic membranes to minimize total mass.
+- **Power Efficiency:** Every gram saved directly increases flight duration and wing responsiveness.
+- **Payload Limits:** Electronics and battery components are stripped of heavy casings to keep total weight under strict limits.
 
 ---
 
@@ -63,7 +68,8 @@
 
 ## 6. Team
 
-> 
+- [Dhay](https://github.com/dyalghamdy19-jpg) - Hardware & Software Engineering
+- [Adhwaa]( ) - Hardware Engineering
 
 ---
 
